@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <script>alert("head")</script>
+    <script src="https://cdn.jsdelivr.net/gh/yeller-rg/xss-test@main/alert.js"></script>
+  </head>
+  <body>
+    <script>alert("body")</script>
+  </body>
+</html>
